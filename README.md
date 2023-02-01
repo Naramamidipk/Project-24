@@ -6,7 +6,7 @@ This is a web based application developed for health related based website in in
 
 
 *Project Link* - https://happy-island-008663600.2.azurestaticapps.net
-*project demo video link* - https://youtu.be/ohz6_Vf8ids
+*project demo video link* - 
 
 ## Azure technologies used for Project
 
@@ -43,7 +43,7 @@ This is a web based application developed for health related based website in in
 ![Screenshot (65)](https://user-images.githubusercontent.com/118972500/215943080-ad02c0ec-545a-4d0e-bbae-9fc1df512207.png)
 
 
-## Shortcodes
+## Short Codes
 
 ![Screenshot (66)](https://user-images.githubusercontent.com/118972500/215943333-a9cd8170-e908-4cdf-82a5-a58dca15b77f.png)
 
